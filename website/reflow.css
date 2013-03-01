@@ -1,0 +1,230 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    min-height: 100%;
+    width: auto;
+    box-shadow: rgb(0, 162, 255) 0px 3px 3px 0px;
+    min-width: 200px;
+    float: none;
+    clear: none;
+    border-style: none;
+    max-width: none;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('img/Downtown Athens 2.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+#reflow-01ffd569-d147-c5f5-39a6-d1b77592ab92 {
+}
+#box1 {
+    float: none;
+    height: 286px;
+    margin-left: auto;
+    margin-top: 8.102337334175616%;
+    clear: none;
+    width: auto;
+    display: block;
+    overflow: inherit;
+    overflow: inherit;
+    min-height: 200px;
+    max-height: none;
+    min-width: 450px;
+    margin-right: auto;
+    background-color: rgba(212, 212, 212, 0.539063);
+}
+#text1 {
+    float: none;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 17.983333587646484px;
+    clear: none;
+    min-height: 0px;
+    min-width: 400px;
+    font-family: fredericka-the-great;
+    font-style: normal;
+    text-shadow: rgb(20, 20, 20) 0px 3px 3px;
+    text-decoration: underline;
+    margin-right: auto;
+    opacity: 1;
+}
+#reflow-fbba5c41-d277-1ffe-e3f4-5a8fb78aeda0 {
+}
+#reflow-4fa2cea8-2a07-f9c2-aa63-e22eeb1c114e {
+    margin-left: 372px;
+}
+#reflow-f97b5f67-bc98-9798-05ce-cce00280d57e {
+    margin-left: 489px;
+}
+#text2 {
+    float: none;
+    font-size: 22px;
+    color: rgb(5, 6, 5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 1.9999923706054688px;
+    clear: none;
+    min-height: 29px;
+    min-width: 200px;
+    font-family: ribeye-marrow;
+    max-width: none;
+    padding: 3px;
+    margin-right: auto;
+    text-indent: 0px;
+    text-transform: uppercase;
+    text-shadow: rgb(252, 255, 255) 2px 2px 3px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+#text3 {
+    float: none;
+    font-size: 22px;
+    color: rgb(5, 6, 5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 3px;
+    clear: none;
+    min-height: 29px;
+    min-width: 200px;
+    font-family: ribeye-marrow;
+    text-transform: uppercase;
+    padding: 3px;
+    margin-right: auto;
+    text-shadow: rgb(252, 255, 255) 2px 2px 3px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+#text4 {
+    float: none;
+    font-size: 22px;
+    color: rgb(5, 6, 5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 4.0166778564453125px;
+    clear: none;
+    min-height: 28px;
+    min-width: 200px;
+    font-family: ribeye-marrow;
+    padding: 3px;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-shadow: rgb(252, 255, 255) 2px 2px 3px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+#text5 {
+    float: none;
+    font-size: 22px;
+    color: rgb(5, 6, 5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 3px;
+    clear: none;
+    min-height: 29px;
+    min-width: 200px;
+    font-family: ribeye-marrow;
+    padding: 3px;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-shadow: rgb(252, 255, 255) 2px 2px 3px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+#text6 {
+    float: none;
+    font-size: 22px;
+    color: rgb(5, 6, 5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 4px;
+    clear: none;
+    min-height: 26px;
+    min-width: 200px;
+    font-family: ribeye-marrow;
+    padding: 3px;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-shadow: rgb(252, 255, 255) 2px 2px 3px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+#text7 {
+    float: none;
+    font-size: 22px;
+    color: rgb(5, 6, 5);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 1.9666748046875px;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+    padding: 3px;
+    margin-right: auto;
+    font-family: ribeye-marrow;
+    text-transform: uppercase;
+    text-shadow: rgb(252, 255, 255) 2px 2px 3px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 1583px) {
+
+   #box1 {
+        min-width: 350px;
+        min-height: 0px;
+        height: 286px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%;
+   }
+   #text1 {
+        font-size: 55px;
+        min-width: 350px;
+   }
+   .primaryContainer {
+        background-image: url('img/Downtown Athens 2.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: 0% 0%;
+        background-repeat: no-repeat no-repeat;
+   }
+}
